@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @maharanasunil1843
 - 👀 I’m interested in big data, machine learning and deep learning.
-- 🌱 I’m currently learning Full Stack Data Science.
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning Full Stack Data Science
 - 📫 How to reach me : Email: maharanasunil1843@gmail.com, Skype: astrophysicist4
 
 <!---
