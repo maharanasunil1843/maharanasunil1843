@@ -1,86 +1,154 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=00C9FF&center=true&vCenter=true&width=750&lines=Sunil+Maharana+%7C+AI+Architect;RAG+%C2%B7+Agentic+Systems+%C2%B7+MLOps;8+Years+%7C+10Cr+ROI+Delivered;Production+GenAI+at+Enterprise+Scale" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&pause=1000&color=4F98A3&center=true&vCenter=true&width=800&lines=Sunil+Maharana+%7C+Senior+GenAI+Engineer;Agentic+Systems+%C2%B7+RAG+%C2%B7+Full-Stack+LLM+Products;~45K+LLM+Queries%2Fmo+%C2%B7+99.5%25+Availability;Solo-Built+%C2%B7+End-to-End+%C2%B7+Production" alt="Typing SVG" />
+
+<br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maharana-sunil)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maharanasunil1843@gmail.com)
 [![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21F?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/maharanasunil1843)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/maharanasunil18)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maharanasunil1843@gmail.com)
 
 </div>
 
 ---
 
-## Who I Am
+## 👤 Profile
 
-I am an **AI Architect** with **8 years** of experience spanning supply-chain operations, applied ML, and production-grade Generative AI. I operate as a **hands-on individual contributor** with full infrastructure ownership — no team, no safety net, just results.
+I am a **Senior Generative AI Engineer** who entered the field through operations and built a manufacturing enterprise's entire production AI capability **end-to-end** — agents, retrieval, datastores, evaluation, infrastructure, and the user-facing product — as the **sole technical owner**, while completing a CS degree alongside full-time work.
 
-I architect and ship enterprise AI systems end-to-end: from RAG pipelines ingesting 15 heterogeneous data sources to agentic workflows that drive real procurement decisions in a **600 Cr steel manufacturing** environment.
-
-> **10 Cr ROI delivered** through AI-driven automation across procurement, audit, and operations.
+**8+ years** of professional experience, **~4 years** shipping and operating production GenAI single-handedly. I own the whole system: the agentic workflow, the polyglot data layer, the observability, the AWS pipeline, and the chat application on top.
 
 ---
 
-## Production Systems I've Shipped
+## 🏭 Context
 
-| System | Stack | Impact |
-|---|---|---|
-| **Agentic Procurement Negotiator** | LangChain, LangGraph, FastAPI, AWS | 30% faster negotiation cycles |
-| **RAG Industrial Query Platform** | Hybrid RAG, Pinecone, FAISS, Qdrant | 80% reduction in SOP lookup time |
-| **Vendor Fraud Detection** | XGBoost, FastAPI, AWS Lambda | 98% precision, 3.2 Cr prevented |
-| **Production Delay Classifier** | BERT, NLP, FastAPI | Automated delay root-cause tagging |
-| **MLOps Infra Platform** | DVC, MLflow, GitHub Actions, Docker | Full experiment tracking + CI/CD |
+> **Sugna Metals Ltd.** — ₹600 Cr steel manufacturing enterprise, Hyderabad
+> 
+> Sole designer, builder and operator of the company's entire production GenAI capability — with no permanent AI team.
 
 ---
 
-## Tech Stack
+## 🚀 Flagship Projects
 
-**GenAI & LLMs**
+### Agentic Enterprise Knowledge Platform · `PRODUCTION · SOLO-BUILT`
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-FF6B35?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-Hybrid+Retrieval-blue?style=flat-square)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21F?style=flat-square&logo=huggingface&logoColor=black)
-![LoRA](https://img.shields.io/badge/LoRA-Fine--Tuning-orange?style=flat-square)
+> **~2,000 queries/day (~45K/month) · 50+ users · 99.5% rolling availability**
 
-**MLOps & Infrastructure**
+Natural-language interface over the enterprise's structured *and* unstructured data — across procurement, operations, and audit.
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
-![MLflow](https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white)
-![DVC](https://img.shields.io/badge/DVC-945DD6?style=flat-square&logo=dvc&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+**Agentic Core:**
+Every query is rewritten, decomposed, and intent-classified. A router delegates to:
+- 🔍 **Hybrid-Retrieval Agent** — multimodal embeddings + rich metadata, BM25 + dense + metadata-filtered
+- 🗄️ **Text-to-SQL Agent** — generates and self-corrects queries against the operational store
+- ⚡ **Direct-Answer Path** — multi-hop, with reflection and answer synthesis across hops
 
-**Vector Databases**
+**Data Layer:** Polyglot by design — vector store (embeddings + metadata), SQL (structured ERP/operational data), NoSQL (sessions + conversation history)
 
-![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-Meta-blue?style=flat-square)
-![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=flat-square)
+**Product:** Modern streaming chat client — auth (login/logout), persisted session history with resume + delete, per-message trace surfacing
 
-**Languages & APIs**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-
----
-
-## Architecture Philosophy
+**Observability:** Per-hop tracing on functional metrics (faithfulness, routing accuracy, SQL execution correctness) and non-functional ones (per-hop latency, token cost, cache hit, error rate), wired into CI eval gates
 
 ```
-Cost-Conscious Design   -->  <$10K/month cloud infra for enterprise-scale GenAI
-Latency-Optimized RAG   -->  Sub-300ms response times via chunking + re-ranking + caching
-Eval-Driven Development -->  RAGAS (90% faithfulness), automated regression on every deploy
-Security-First          -->  AWS IAM, LLM Guard, Parlant, prompt injection defense
-Observability-First     -->  Prometheus + Grafana on every production endpoint
+Stack: LangGraph · GPT-5.x · Claude Sonnet 4.6 / Haiku 4.5 · Multimodal Embeddings
+       Pinecone · PostgreSQL · DynamoDB · Redis · FastAPI · React/Next.js
+       LangSmith · RAGAS · AWS (Lambda/ECS/S3/Cognito) · GitHub Actions
 ```
+
+| Metric | Value |
+|---|---|
+| Retrieval p50 / p95 | ~70 ms / ~140 ms |
+| Answer p95 | ~3.8 s |
+| RAGAS Faithfulness | **0.91** |
+| RAGAS Answer-Relevancy | **0.88** |
+| Intent-Routing Accuracy | **~95%** |
+| Text-to-SQL Execution Accuracy | **~88%** (with self-correction retry) |
+| Hallucination Rate (audited) | ~23% → **~6%** |
+| Blended Cost | **≈ ₹1.4/query** (~₹70K/month at scale) |
+| SOP Retrieval Time | ~12 min → **~80 s** |
 
 ---
 
-## GitHub Stats
+### Agentic Procurement Negotiator · `IN ACTIVE DEVELOPMENT`
+
+Multi-agent system that ingests vendor offers, scores them against risk and historical pricing, and drafts counter-positions and contracts behind a **human approval gate**.
+
+**Architecture:** Supervisor pattern (`langgraph-supervisor` / `create_supervisor()`)
+- An orchestrator with route/finish-only control delegates to **4 specialists**: offer analysis, pricing intelligence (text-to-SQL over historical data), risk, contract drafting
+- Tool-based handoffs via `Command(goto, graph=PARENT)`
+- Postgres-checkpointed shared state keyed by `thread_id`
+- Recursion/handoff guard · routing-accuracy evaluator gating CI · MCP tool layer · human-in-the-loop interrupts · `.astream()` streaming
+
+```
+Stack: LangGraph + langgraph-supervisor · Claude Opus 4.7 (planning) + Haiku 4.5 (workers)
+       MCP · PostgreSQL + DynamoDB · LangSmith · RAGAS + LLM-as-judge
+       FastAPI · React/Next.js · AWS · GitHub Actions
+```
+
+| Metric | Value |
+|---|---|
+| Routing Accuracy | **~95%** |
+| Tool-Call Correctness | **~92%** (labelled task set, scored in CI) |
+| Cost per Negotiation Session | **≈ ₹22** (Opus for planning only, Haiku workers) |
+| Target Cycle Reduction | ~30% (~9 → ~5 days) — validated in eval |
+
+---
+
+## 📊 Impact at a Glance
+
+| Metric | Value |
+|---|---|
+| LLM Queries Served / Month | **~45K** |
+| Text-to-SQL Accuracy | **~88%** |
+| Intent-Routing Accuracy | **~95%** |
+| Risk + Savings Impact (total) | **₹6.8 Cr** |
+| Vendor Fraud Prevented (yr 1) | **₹3.2 Cr** (XGBoost, precision 0.98, ROC-AUC 0.97) |
+| Inventory Savings | **₹5.6 Cr** less blocked inventory |
+| PO–Invoice Matching | ~3 days → **~2 hours** |
+| Manual Reporting Removed | **~30 hrs/week** |
+
+---
+
+## 🛠️ Technical Architecture
+
+| Domain | Technologies |
+|---|---|
+| **Agentic** | LangGraph, langgraph-supervisor (supervisor/handoff), query rewriting & decomposition, intent routing, multi-hop synthesis, MCP, human-in-the-loop, Postgres checkpointing |
+| **Retrieval** | Hybrid BM25 + dense + metadata-filtered, multimodal embeddings, cross-encoder & Cohere re-ranking, parent-document & semantic chunking |
+| **Text-to-SQL** | NL→SQL generation with schema grounding, validation and self-correction retry loop over the operational store |
+| **Models** | GPT-5.x family · Claude Opus 4.7 / Sonnet 4.6 / Haiku 4.5 · Gemini 3.x · Llama 4 / DeepSeek (routing) · text-embedding-3-large, BGE / E5 |
+| **Eval & Quality** | RAGAS (faithfulness, relevancy, context precision/recall), LLM-as-judge, routing-accuracy & SQL-correctness evals, golden sets, CI eval gates |
+| **Data Layer** | Pinecone / pgvector (embeddings + metadata) · PostgreSQL (structured / text-to-SQL) · DynamoDB / MongoDB (sessions, history) · Redis (cache, rate limiting) |
+| **LLMOps** | Docker · MLflow · DVC · GitHub Actions · LangSmith / Langfuse · OpenTelemetry GenAI · Prometheus · Grafana |
+| **Cloud / Product** | AWS (Lambda, ECS/Fargate, S3, IAM, ALB, Cognito, CloudWatch) · FastAPI (async + SSE) · React chat client with auth + session management |
+| **Security** | LLM Guard, prompt-injection & PII defenses, RBAC, audit logging, secrets management |
+| **Languages** | Python (primary) · SQL · Bash · JavaScript / TypeScript · C++ |
+
+---
+
+## 💼 Experience
+
+**Sugna Metals Ltd.** — ₹600 Cr steel manufacturing enterprise, Hyderabad
+
+| Role | Period |
+|---|---|
+| **AI Engineer — GenAI & LLMOps** *(titled: AI Architect; sole technical owner)* | Nov 2021 – Present |
+| **Procurement Manager — Technology & Analytics Enablement** | Jan 2020 – Oct 2021 |
+| **Analytics & Automation Executive — Procurement** | Nov 2017 – Dec 2019 |
+
+---
+
+## 🎓 Education & Certifications
+
+**B.Tech, Computer Science** — Osmania University (affiliated college), Hyderabad · *2018 – 2022*
+
+> Completed full-time while employed at Sugna Metals via a working-professional program. Final-year project: the company's first production RAG system on AWS — the seed of the platform above.
+
+**Certifications (IBM):** Machine Learning with Python · Data Science Methodology · Python for Data Science
+
+---
+
+## 📈 GitHub Stats
 
 <div align="center">
 
@@ -91,18 +159,10 @@ Observability-First     -->  Prometheus + Grafana on every production endpoint
 
 ---
 
-## Currently Building
-
-- Exploring **multi-agent orchestration patterns** with LangGraph for complex procurement workflows
-- Experimenting with **Go** for high-performance ML inference APIs
-- Refining **cost-efficient RAG** architectures for constrained cloud budgets
-
----
-
 <div align="center">
 
 *"Ship production AI. Own the architecture. Measure everything."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=maharanasunil1843&color=00c9ff&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=maharanasunil1843&color=4f98a3&style=flat-square)
 
 </div>
